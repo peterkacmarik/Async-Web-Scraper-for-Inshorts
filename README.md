@@ -85,14 +85,12 @@ async-web-scraper-inshorts/
 │   ├── models.py
 │   ├── sqlite.db
 ├── main.py
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 - `dataset/`: Directory where the scraped data will be saved.
 - `database/`: Directory containing database models and database sqlite.db.
 - `main.py`: Main script to run the web scraper.
-- `requirements.txt`: File listing the required Python packages.
 - `README.md`: This README file.
 
 ## License
